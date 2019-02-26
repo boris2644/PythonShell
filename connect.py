@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import socket
 import subprocess
-password = "9600231653212"
+password = "Your password here!"
 def Login():
 	global s
 	global password
